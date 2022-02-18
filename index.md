@@ -1,4 +1,5 @@
-## Welcome to Regie's verse
+## Welcome to Regie's Github page
+ Owned by: Regie Ezra Bacho
 
  This site was specially created to [editor on GitHub](https://github.com/Erzark/Erzark.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
