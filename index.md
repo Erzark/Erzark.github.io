@@ -22,8 +22,12 @@ La Medalla, Baao Camarines Sur |
 
 [![alt text][1.1]][1]
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]: file:///Users/samantha/Downloads/1161953_instagram_icon.svg
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]:  file:///Users/samantha/Downloads/1161953_instagram_icon.svg
 
-[1]: http://www.twitter.com/carlsednaoui
+[1]: https://www.instagram.com/cfarmresort/
+
+<style="color:red">
+
+
