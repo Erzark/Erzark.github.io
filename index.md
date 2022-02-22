@@ -20,4 +20,10 @@ cfarm809@gmail.com |
 La Medalla, Baao Camarines Sur |
 
 
+[![alt text][1.1]][1]
 
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
+[1]: http://www.twitter.com/carlsednaoui
