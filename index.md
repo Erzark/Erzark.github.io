@@ -4,6 +4,13 @@
 
 _EcoFarm @ La Medalla, Baao Camarines Sur_
 
+# ABOUT US
+Kick back and relax as our eco-farm's fresh, natural air nurtures you. Come and experience the beauty of nature, be accompanied by our accommodating staff and book yourself a reserve for a stay on our farm.
+
+Here in C-Farm, we have a multi-purpose function hall, six (6) Kubo/room, two (2) open cottages, a camping area for 7-9 tents. We also offer a small hiking track for those who want to live in the moment, and last but not least, a self-filtering track swimming pool.
+
+C-Farm tries and give the best experiences and bring happy moments to all of our guests by bringing them closer to the outdoors.
+
 Contact us at +63 927 640 1422
 
 
