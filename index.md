@@ -1,7 +1,5 @@
 # C-Farm 
 
-_EcoFarm @ La Medalla, Baao Camarines Sur_
-
 ![Banner](https://user-images.githubusercontent.com/99859756/155097703-fc0bdadd-074d-4d0f-aa89-e4443bfdcedf.png)
 
 
@@ -12,10 +10,12 @@ Here in C-Farm, we have a multi-purpose function hall, six (6) Kubo/room, two (2
 
 C-Farm tries and give the best experiences and bring happy moments to all of our guests by bringing them closer to the outdoors.
 
-```Sam
-
-Contact us at +63 927 640 1422
-
-```
-
+| Contact us  | 
+| ----------- | 
+| Telephone Number
++63 927 640 1422| 
+| Email
+cfarm809@gmail.com | 
+| Address
+La Medalla, Baao Camarines Sur |
 
