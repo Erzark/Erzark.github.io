@@ -20,14 +20,6 @@ cfarm809@gmail.com |
 La Medalla, Baao Camarines Sur |
 
 
-[![alt text][1.1]][1]
-
-[1.1]: file:///Users/samantha/Downloads/1161953_instagram_icon.svg
-
-[1.2]:  file:///Users/samantha/Downloads/1161953_instagram_icon.svg
-
-[1]: https://www.instagram.com/cfarmresort/
-
 
 
 
