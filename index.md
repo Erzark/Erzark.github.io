@@ -1,8 +1,8 @@
-## Welcome to C-Farm 
+# C-Farm 
 
-EcoFarm @ La Medalla, Baao Camarines Sur
+![Banner](https://user-images.githubusercontent.com/99859756/155097703-fc0bdadd-074d-4d0f-aa89-e4443bfdcedf.png)
 
-![C-Farm Resort](https://user-images.githubusercontent.com/99859756/155092753-fa725d5f-d5e5-4a9e-ba61-99811f365924.png)
+_EcoFarm @ La Medalla, Baao Camarines Sur_
 
 Contact us at +63 927 640 1422
 
