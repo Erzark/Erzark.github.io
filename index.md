@@ -28,6 +28,6 @@ La Medalla, Baao Camarines Sur |
 
 [1]: https://www.instagram.com/cfarmresort/
 
-<style="color:red">
+
 
 
