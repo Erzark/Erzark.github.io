@@ -38,4 +38,5 @@ La Medalla, Baao Camarines Sur |
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/LHPgobtcIPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
-    
+    ![safe_image](https://user-images.githubusercontent.com/99859756/155279956-bc112030-281b-4dc1-b939-7be0fe74e686.png)
+
