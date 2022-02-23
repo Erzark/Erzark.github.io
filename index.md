@@ -24,6 +24,9 @@ Minimum health protocols is observed accorded to IATF guidelines
 ![C-Farm Resort](https://user-images.githubusercontent.com/99859756/155272321-00369c08-d28b-4d69-a84b-46f3944cf2e2.png)
 
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/LHPgobtcIPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+
 
 | Contact us  | 
 | ----------- | 
@@ -33,9 +36,3 @@ Minimum health protocols is observed accorded to IATF guidelines
 cfarm809@gmail.com | 
 | Address
 La Medalla, Baao Camarines Sur |
-
-
-
-<iframe width="600" height="480" src="https://www.youtube.com/embed/LHPgobtcIPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
