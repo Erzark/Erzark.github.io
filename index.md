@@ -10,8 +10,10 @@ Here in C-Farm, we have a multi-purpose function hall, six (6) Kubo/room, two (2
 
 C-Farm tries and give the best experiences and bring happy moments to all of our guests by bringing them closer to the outdoors.
 
-## PRICES AND RATES
-![240670934_981920382605805_2591533794452786365_n](https://user-images.githubusercontent.com/99859756/155254976-e1db8d8f-42aa-496b-a1da-b850476d0593.png)
+##  PRICES AND RATES
+![C-Farm Resort](https://user-images.githubusercontent.com/99859756/155272321-00369c08-d28b-4d69-a84b-46f3944cf2e2.png)
+
+
 
 | Contact us  | 
 | ----------- | 
