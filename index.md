@@ -25,8 +25,5 @@ cfarm809@gmail.com |
 La Medalla, Baao Camarines Sur |
 
 
- ![](http://i.imgur.com/OUkLi.gif)
+ ![](file:///Users/samantha/Downloads/Presentation.gif)
 
-![](http://i.imgur.com/Ssfp7.gif)
-
-![](http://i.imgur.com/60bts.gif)
